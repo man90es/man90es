@@ -2,8 +2,8 @@
   
 <p align="center">
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js">
-  <img src="https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue-dot-js">
+  <img src="https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=node-dot-js">
   <img src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go">
   <img src="https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql">
   <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb">

@@ -11,8 +11,7 @@
 	<a href="https://github.com/VSCodium/vscodium"><img src="https://img.shields.io/badge/-VSCodium-black?style=for-the-badge&logo=visual-studio-code"></a>
 </p>
 
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=octoman90&show_icons=true&theme=radical"></a>
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octoman90&layout=compact&theme=radical&langs_count=6"></a>
-
+<span>
+	<img height="175em" src="https://github-readme-stats.vercel.app/api?username=octoman90&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+	<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octoman90&layout=compact&langs_count=8&theme=radical&hide_border=true&hide_title=true" />
+</span>

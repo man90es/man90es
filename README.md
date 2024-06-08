@@ -4,4 +4,4 @@
 </span>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/man90es/man90es/assets/82229068/0083a3c9-468b-4f24-8f3c-5bdf45119fe9');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/man90es/man90es/assets/82229068/0083a3c9-468b-4f24-8f3c-5bdf45119fe9');]{x0000}$}
